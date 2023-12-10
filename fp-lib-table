@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "pcmcia")(type "KiCad")(uri "${KIPRJMOD}/pcmcia.pretty")(options "")(descr ""))
+)
