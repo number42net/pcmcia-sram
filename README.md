@@ -15,7 +15,7 @@ This board is primarily designed for use in the Amstrad NC-100 and NC-200 portab
 + Currently no write protect switch
 
 ## Design
-+ This product is Open Source, licensed under [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt)
++ This product is Open Source, licensed under [CERN-OHL-P v2](LICENSE)
 + The schematics and PCB designs have been produced with KiCAD
 
 ![schematic](images/schematic.png)
