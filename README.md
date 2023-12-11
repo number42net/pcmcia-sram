@@ -2,7 +2,7 @@
 
 This board is primarily designed for use in the Amstrad NC-100 and NC-200 portable computers, but will likely work in other computers as well.
 
-![Front](images/front.png) ![Back](images/back.png)
+![PCB](images/pcb.png)
 
 ## Specifications:
 + 1024K * 8 bits static RAM
