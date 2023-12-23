@@ -13,6 +13,7 @@
 *.kicad_sch-bak
 *-backups
 *.kicad_prl
+*.lck
 *.sch-bak
 *~
 _autosave-*
@@ -73,5 +74,3 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
-
-# End of https://www.toptal.com/developers/gitignore/api/macos,kicad
