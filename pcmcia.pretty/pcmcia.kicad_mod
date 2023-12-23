@@ -157,4 +157,9 @@
       fb854c43-a233-4c92-bff1-96348c15a18a
     )
   )
+  (model "${KIPRJMOD}/pcmcia.pretty/EMF-130-01-L-D.stp"
+    (offset (xyz 0 0 -1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
